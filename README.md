@@ -1,12 +1,19 @@
 # Hi there! I'm Salifou   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
 ### 🧐 About Me:
+Originally from :togo:, studying in :de:
 - 🔭 I’m currently working on a react native mobile app for smart farms
 - 🌱 I’m currently exploring **AWS** cloud technologies
 - 💬 Ask me about backend technologies
 - 📫 How to reach me: salifou.affoh@gmail.com
 - ⚡ Fun fact: The sky is not blue 😉
 
+### Speak to me in:
+- French
+- English
+- German
+- Arabic (still learning :books:)
+  
 ### 🔨 Languages and Tools:
 <div >
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" alt="TypeScript" title="TypeScript"/>
@@ -35,5 +42,3 @@
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" alt="Docker" title="Docker"/>
 	<img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/76662862/2481dc48-be6b-4ebb-9e8c-3b957efe69fa" alt="Linux" title="Linux"/>
 </div>
-
-### Talk to me in:
