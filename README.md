@@ -2,9 +2,9 @@
 
 ### 🧐 About Me:
 Originally from :togo:, studying in :de:
-- 🔭 I’m currently working on a react native mobile app for smart farms
+- 🔭 I’m currently working at [Qubicast](https://qubicast.com)
 - 🌱 I’m currently exploring **AWS** cloud technologies
-- 💬 Ask me about backend technologies
+- 💬 Ask me about React Native & Backend Technologies
 - 📫 How to reach me: salifou.affoh@gmail.com
 - ⚡ Fun fact: The sky is not blue 😉
 
