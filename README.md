@@ -2,11 +2,14 @@
 
 ### 🧐 About Me:
 Originally from :togo:, studying in :de:
-- 🔭 I’m currently working at [Qubicast](https://qubicast.com)
-- 🌱 I’m currently exploring ML and AI Engineering
-- 💬 Ask me about C++ & Backend Technologies
+- 🔭 Looking for a Werkstudent role in AI and software engineering. Previously Werkstudent at [Qubicast](https://qubicast.com)
+- 🌱 Building LLM applications (RAG, agents) and learning ML engineering
+- 💬 Ask me about Software and AI Engineering
 - 📫 How to reach me: salifou.affoh@gmail.com
 - ⚡ Fun fact: The sky is not blue 😉
+
+### 🚀 Featured project:
+**[StudyRAG](https://github.com/affohsalif93/StudyRAG)** ([live demo](https://study-rag-ruddy.vercel.app)): citation-backed Q&A over the RWTH Master Informatik regulations, with a tool-calling agent, an elective recommender on a Neo4j prerequisite graph, and an evaluation and red-team suite. Python, LangChain, OpenAI API, FastAPI, Next.js.
 
 ### Speak to me in:
 - French
@@ -33,3 +36,5 @@ Originally from :togo:, studying in :de:
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" alt="Docker" title="Docker"/>
 	<img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/76662862/2481dc48-be6b-4ebb-9e8c-3b957efe69fa" alt="Linux" title="Linux"/>
 </div>
+
+AI and backend: LangChain, OpenAI API, FastAPI, Neo4j, Next.js
